@@ -1,5 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
+O DevLinks é um agregador de links para usar como cartão de visitas online, nele está todos os links para maior exibição.
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -38,6 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by AndersonKramin
-=======
-
+# Feito com ♥ by AndersonKramin
